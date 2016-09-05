@@ -26,7 +26,7 @@
   <artifactId>stsm</artifactId>
   <packaging>war</packaging>
   <version>ci</version>
-  <name>Thymeleaf Examples - Spring Thyme Seedstarter Manager</name>
+  <name>ytube-upload</name>
 
   <description>XML/XHTML/HTML5 template engine for Java</description>
 
